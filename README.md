@@ -1,5 +1,7 @@
 <div class="profile-section">
-  <h2>Profile: Experienced Software Developer | Diverse Domains | Analytical Expertise | Java, C#, Machine Learning</h2>
+  
+  <h1>About Me</h1>
+  <h2>Experienced Software Developer | Diverse Domains | Analytical Expertise | Java, C#, Machine Learning</h2>
   <h3>Summary:</h3>
   <p>
     Highly skilled software developer with over 10 years of experience in multiple domains, including Aviation, Banking, and Telecommunication. Proficient in collaborating with UI designers, business analysts, and stakeholders to enhance software solutions. Adept at analyzing data and leveraging insights to drive effective decision-making. Well-versed in Java, C#, and possess knowledge of machine learning acquired during a master's degree.
