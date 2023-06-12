@@ -14,15 +14,15 @@
     <li>Programming Languages: Proficient in Java and C#, leveraging these languages to develop robust and scalable software solutions.</li>
     <li>Machine Learning: Possess foundational knowledge of machine learning acquired during a master's program, enabling me to explore innovative approaches to problem-solving.</li>
   </ul>
-  <h3>Experience:</h3>
+<!--  <h3>Experience:</h3>
   <ul>
     <li>
-      <strong>Software Developer at [Company Name]</strong>
+      <strong>Software Developer at Brombeer IT</strong>
       <br />
       Developed and maintained software solutions for aviation-related applications, collaborating with cross-functional teams to enhance user interfaces and optimize software performance.
     </li>
     <li>
-      <strong>Software Developer at [Company Name]</strong>
+      <strong>ADCB [Company Name]</strong>
       <br />
       Contributed to the development of banking software, collaborating with business analysts to gather requirements and deliver user-friendly solutions that met industry regulations and standards.
     </li>
@@ -31,7 +31,7 @@
       <br />
       Engaged in the development of telecommunication software, leveraging data analysis skills to improve system performance and enhance user experience.
     </li>
-  </ul>
+  </ul> --!>
   <h3>Education:</h3>
   <p>
     Master's Degree in Computer Science: Completed a master's program that included coursework in machine learning, providing a solid foundation in the application of advanced algorithms and data analysis techniques.
