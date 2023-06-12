@@ -12,9 +12,11 @@
     <li>Domain Knowledge: Extensive experience working across Aviation, Banking, and Telecommunication sectors, gaining valuable insights into industry-specific challenges and requirements.</li>
     <li>Collaboration: Proven ability to collaborate effectively with UI designers, business analysts, and stakeholders to gather requirements, refine user interfaces, and optimize software functionality.</li>
     <li>Analytical Acumen: Strong analytical skills to evaluate complex problems, interpret data, and provide valuable insights for informed decision-making.</li>
-    <li>Data-driven Approach: Excel in utilizing data to drive software improvements, optimize workflows, and enhance overall user experience.</li>
-    <li>Programming Languages: Proficient in Java and C#, leveraging these languages to develop robust and scalable software solutions.</li>
-    <li>Machine Learning: Possess foundational knowledge of machine learning acquired during a master's program, enabling me to explore innovative approaches to problem-solving.</li>
+    <li>Software Architecture: Proficient in designing scalable and efficient software architectures to ensure the long-term success of projects.</li>
+    <li>Mathematics and Algorithms: Strong background in mathematics and algorithm design, enabling me to develop efficient and optimized solutions.</li>
+    <li>Programming Languages: Proficient in Java and C# and many others, leveraging these languages to develop robust and scalable software solutions.</li>
+    <li>Machine Learning: Possess foundational knowledge of machine learning acquired during a master's program for a project, enabling me to explore innovative approaches to problem-solving.</li>
+ 
   </ul>
 <!--  <h3>Experience:</h3>
   <ul>
