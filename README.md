@@ -67,7 +67,8 @@
     &nbsp; 
 <img align="left" src="https://img.icons8.com/?size=30&id=13679&format=png" />
     &nbsp;
-
+<img align="left" src="https://img.icons8.com/?size=30&id=71257&format=png" />
+    &nbsp;
 
   <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <br><br> 
@@ -85,8 +86,6 @@
 <!--
   <img align="left" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
     <br><br>-->
-  <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    &nbsp;
   <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
     &nbsp;
  
