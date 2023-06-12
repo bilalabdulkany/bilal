@@ -63,6 +63,9 @@
 <p>  
   <img align="left" src="https://img.shields.io/badge/c Sharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     &nbsp; 
+<img align="left" src="https://img.icons8.com/?size=30&id=13679&format=png" />
+    &nbsp;
+
 
   <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <br><br> 
